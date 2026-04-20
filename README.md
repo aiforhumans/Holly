@@ -1,4 +1,4 @@
-# Holly Prompt
+# 👼 Holly Prompt
 
 **Advanced prompt orchestration and memory management for ComfyUI**
 
