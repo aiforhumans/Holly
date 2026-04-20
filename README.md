@@ -231,6 +231,7 @@ python -m unittest discover -s tests -p "test_*.py"
 
 ## Documentation
 
+- [ADVANCED_FEATURES.md](docs/ADVANCED_FEATURES.md) – What makes Holly advanced: typed payloads, strategy selection, type safety
 - [ARCHITECTURE.md](docs/ARCHITECTURE.md) – System design and data flow
 - [NODE_MAP.md](docs/NODE_MAP.md) – Complete node reference
 - [NODE_SANITY_MATRIX.md](docs/NODE_SANITY_MATRIX.md) – Test coverage matrix
